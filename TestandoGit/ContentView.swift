@@ -27,6 +27,7 @@ struct ContentView: View {
             .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .top)
             
             Text("Testantando Git + GitHub\n via Terminal")
+                .bold()
                 .foregroundColor(.primary)
                 .multilineTextAlignment(.center)
                 .position(x:200, y: 320)
