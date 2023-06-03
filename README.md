@@ -9,7 +9,7 @@ Criado um View simples para fins de aprendizado.
 #Desafio
 Renomear o a URL do repositorio remoto.
 
-Comandos usados:
+#Comandos usados:
 
 git remote -v 
 Verifica o repositório remoto.
