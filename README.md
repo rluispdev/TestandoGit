@@ -8,3 +8,16 @@ Criado um View simples para fins de aprendizado.
 
 #Desafio
 Renomear o a URL do repositorio remoto.
+
+Comandos usados:
+
+git remote -v 
+Verifica o repositório remoto.
+
+git remote remove origin
+Reomove o repositório remoto.
+
+git remote set-url <nome> <url>
+Adiciona a nova URL.
+
+
